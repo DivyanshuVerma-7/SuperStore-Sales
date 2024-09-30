@@ -1,1 +1,1 @@
-PowerBi Project
+Microsoft Power BI Project
